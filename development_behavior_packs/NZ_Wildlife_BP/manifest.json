@@ -1,0 +1,39 @@
+{
+    "format_version": 2,
+    "header": {
+        "name": "NZ Wildlife Behaviour Pack",
+        "description": "Behaviour pack for the NZ Wildlife addon. Made by ASOwnerYT and IsaacCat99",
+        "uuid": "a941fa99-f56c-42a1-8fa6-32adbca51b20",
+        "version": [
+            1,
+            0,
+            0
+        ],
+        "min_engine_version": [
+            1,
+            14,
+            0
+        ]
+    },
+    "modules": [
+        {
+            "type": "data",
+            "uuid": "717b0a00-3662-4473-974d-faa3e162852b",
+            "version": [
+                1,
+                0,
+                0
+            ]
+        }
+    ],
+    "dependencies": [
+        {
+            "uuid": "83e1528a-76f6-46a4-bf9e-244a877474cb",
+            "version": [
+                1,
+                0,
+                0
+            ]
+        }
+    ]
+}
