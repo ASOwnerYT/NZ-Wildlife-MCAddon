@@ -9,10 +9,10 @@
         "legs": "chicken_legs"
       },
       "textures": {
-        "default": "textures/entity/chicken"
+        "default": "textures/entity/kiwi.png"
       },
       "geometry": {
-        "default": "geometry.chicken.v1.12"
+        "default": "geometry.nz.kiwi"
       },
       "animations": {
         "move": "animation.chicken.move",
